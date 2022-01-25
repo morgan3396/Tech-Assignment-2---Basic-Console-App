@@ -8,7 +8,8 @@ namespace Tech_Assignment_2___Basic_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Nothing we learn in this world is ever wasted.");
+            // Submitted by Morgan Harmon
         }
     }
 }
